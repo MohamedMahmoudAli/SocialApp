@@ -1,0 +1,4 @@
+#Tue Sep 20 17:01:46 EET 2022
+base.0=D\:\\projects\\flutter_projects\\udemy_project\\android\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

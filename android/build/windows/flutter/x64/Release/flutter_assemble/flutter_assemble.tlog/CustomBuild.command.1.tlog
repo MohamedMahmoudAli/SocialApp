@@ -1,0 +1,28 @@
+^D:\PROJECTS\FLUTTER_PROJECTS\UDEMY_PROJECT\ANDROID\BUILD\WINDOWS\CMAKEFILES\1C855170DF31A466CD9FA00C901F0548\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=c:\src\flutter PROJECT_DIR=D:\projects\flutter_projects\udemy_project\android FLUTTER_ROOT=c:\src\flutter FLUTTER_EPHEMERAL_DIR=D:\projects\flutter_projects\udemy_project\android\windows\flutter\ephemeral PROJECT_DIR=D:\projects\flutter_projects\udemy_project\android FLUTTER_TARGET=lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=true PACKAGE_CONFIG=D:\projects\flutter_projects\udemy_project\android\.dart_tool\package_config.json c:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\PROJECTS\FLUTTER_PROJECTS\UDEMY_PROJECT\ANDROID\BUILD\WINDOWS\CMAKEFILES\B7A34AD58B98906FA67C4659EACEC32D\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\PROJECTS\FLUTTER_PROJECTS\UDEMY_PROJECT\ANDROID\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/projects/flutter_projects/udemy_project/android/windows -BD:/projects/flutter_projects/udemy_project/android/build/windows --check-stamp-file D:/projects/flutter_projects/udemy_project/android/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

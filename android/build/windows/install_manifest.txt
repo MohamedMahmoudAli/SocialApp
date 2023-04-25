@@ -1,0 +1,9 @@
+D:/projects/flutter_projects/udemy_project/android/build/windows/runner/Release/data/icudtl.dat
+D:/projects/flutter_projects/udemy_project/android/build/windows/runner/Release/flutter_windows.dll
+D:/projects/flutter_projects/udemy_project/android/build/windows/runner/Release/data/flutter_assets/AssetManifest.json
+D:/projects/flutter_projects/udemy_project/android/build/windows/runner/Release/data/flutter_assets/FontManifest.json
+D:/projects/flutter_projects/udemy_project/android/build/windows/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/projects/flutter_projects/udemy_project/android/build/windows/runner/Release/data/flutter_assets/NOTICES.Z
+D:/projects/flutter_projects/udemy_project/android/build/windows/runner/Release/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/projects/flutter_projects/udemy_project/android/build/windows/runner/Release/data/flutter_assets/shaders/ink_sparkle.frag
+D:/projects/flutter_projects/udemy_project/android/build/windows/runner/Release/data/app.so
